@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/temreact/static/css/main.c3e11995.css",
+    "main.js": "/temreact/static/js/main.a678f721.js",
+    "static/media/work.png": "/temreact/static/media/work.221a4cdff58cc04e4815.png",
+    "static/media/left-img.png": "/temreact/static/media/left-img.680ac7c2e8ae28161d2c.png",
+    "index.html": "/temreact/index.html",
+    "main.c3e11995.css.map": "/temreact/static/css/main.c3e11995.css.map",
+    "main.a678f721.js.map": "/temreact/static/js/main.a678f721.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3e11995.css",
+    "static/js/main.a678f721.js"
+  ]
+}
